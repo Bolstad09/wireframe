@@ -8,12 +8,16 @@ header {
     background: #444;
     height: 100px;
 }
-t
+
 nav {
     width: 960px;
     margin: 0px auto;
 }
+nav li {
+    float: right;
+    margin-left: -60px;
 
+}
 header img {
     float: left;
     margin-top: 15px;
